@@ -1,0 +1,10 @@
+<HTML>
+	<body>
+		<font size = “50pt”>Hello World </font>
+		
+		<car color=“red”> </car>
+		<img width=“100”src=“https://cdn.pixabay.com/photo/2014/05/03/00/42/vw-camper-336606_1280.jpg”
+	</body>
+
+
+</HTML>
